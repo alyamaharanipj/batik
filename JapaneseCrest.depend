@@ -1,0 +1,183 @@
+# depslib dependency file v1.0
+1606348597 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\main.cpp
+	<iostream>
+	<graphics.h>
+	"DataType.h"
+	<Stroke.h>
+	<Util.h>
+	<Rectangles.h>
+	<Square.h>
+	<Trapezoid.h>
+	<Parallelogram.h>
+	<Shape.h>
+	<Rhombus.h>
+	<RightTriangle.h>
+	<EquilateralTriangle.h>
+	<Triangle.h>
+	<ScaleneTriangle.h>
+	<MathGraph.h>
+	<Ellipses.h>
+	<math.h>
+	<Circle.h>
+	<Pattern.h>
+	<Flower.h>
+
+1605277223 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\datatype.h
+	<Point.h>
+
+1606010883 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\point.h
+
+1606275680 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\stroke.h
+	<string>
+	"Point.h"
+	<../DataType.h>
+
+1604414821 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\util.h
+
+1606316128 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\rectangles.h
+	<Quadrilateral.h>
+
+1606018032 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\quadrilateral.h
+	<Shape.h>
+
+1605966648 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\shape.h
+	<Point.h>
+	<../DataType.h>
+
+1606275711 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\square.h
+	<Quadrilateral.h>
+
+1605112751 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\trapezoid.h
+	<Quadrilateral.h>
+
+1605360916 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\parallelogram.h
+	<Quadrilateral.h>
+
+1605112751 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\rhombus.h
+	<Quadrilateral.h>
+
+1605336501 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\righttriangle.h
+	<Triangle.h>
+
+1605966451 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\triangle.h
+	<Shape.h>
+
+1605336498 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\equilateraltriangle.h
+	<Triangle.h>
+
+1605367682 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\scalenetriangle.h
+	<../DataType.h>
+	<Triangle.h>
+
+1605193247 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\mathgraph.h
+	<Point.h>
+
+1605355719 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\ellipses.h
+	<Shape.h>
+
+1606315297 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\circle.h
+	<Shape.h>
+	<../DataType.h>
+
+1606301065 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\pattern.h
+	<Point.h>
+	<Square.h>
+	<Stroke.h>
+
+1606320862 d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\include\flower.h
+	<Point.h>
+	<Circle.h>
+	<Rectangles.h>
+
+1606320026 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\circle.cpp
+	"Circle.h"
+	<iostream>
+	<graphics.h>
+
+1605913509 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\ellipses.cpp
+	"Ellipses.h"
+	<graphics.h>
+	<math.h>
+	<iostream>
+
+1605336470 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\equilateraltriangle.cpp
+	<EquilateralTriangle.h>
+	<math.h>
+	<graphics.h>
+	<iostream>
+
+1606322620 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\flower.cpp
+	"Flower.h"
+	<graphics.h>
+
+1605193633 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\mathgraph.cpp
+	"MathGraph.h"
+	<graphics.h>
+	<math.h>
+	<iostream>
+
+1605360918 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\parallelogram.cpp
+	<Parallelogram.h>
+	<math.h>
+
+1606307743 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\pattern.cpp
+	"Pattern.h"
+
+1606322579 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\point.cpp
+	<Point.h>
+	<cmath>
+	<graphics.h>
+	<iostream>
+
+1606274467 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\quadrilateral.cpp
+	<Quadrilateral.h>
+	<Stroke.h>
+	<iostream>
+
+1606316149 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\rectangles.cpp
+	<Rectangles.h>
+	<math.h>
+	<Stroke.h>
+
+1605845220 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\rhombus.cpp
+	<Rhombus.h>
+
+1605336460 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\righttriangle.cpp
+	<RightTriangle.h>
+	<math.h>
+	<graphics.h>
+
+1605368610 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\scalenetriangle.cpp
+	"ScaleneTriangle.h"
+	<math.h>
+	<graphics.h>
+
+1606008458 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\shape.cpp
+	<Shape.h>
+	<graphics.h>
+	<math.h>
+
+1606275711 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\square.cpp
+	<Square.h>
+	<math.h>
+
+1606277685 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\stroke.cpp
+	<Stroke.h>
+	<graphics.h>
+	<math.h>
+	<iostream>
+
+1605112805 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\trapezoid.cpp
+	<Trapezoid.h>
+	<math.h>
+
+1605966475 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\triangle.cpp
+	<Triangle.h>
+	<Stroke.h>
+
+1606348336 source:d:\alya\jtk\semester 5\[gk_b_2018]_ets_batik2d_181511038\[gk_b_2018]source_code_181511038\src\util.cpp
+	<Util.h>
+	<graphics.h>
+	<iostream>
+	<../DataType.h>
+
