@@ -11,6 +11,5 @@ Animating shape using:
 # Result
 
 ![result 1](https://github.com/alyamaharanipj/batik/tree/main/screenshot/[GK_B_2018]GIF_181511038_Versi2.gif)
-<img src="https://github.com/alyamaharanipj/batik/tree/main/screenshot/[GK_B_2018]GIF_181511038_Versi2.gif" width="40" height="40" />
 
 ![result 2](https://github.com/alyamaharanipj/batik/tree/main/screenshot/[GK_B_2018]GIF_181511038_Challenge.gif)
