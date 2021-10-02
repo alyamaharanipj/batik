@@ -1,6 +1,6 @@
 # batik
 # Description
-Batik is a project to complete computer graphic course. This project display an animation of japanese crest and scandinavian floral pattern shape that manipulated by some operations. Those operations are translation, scaling, and rotation. Developed using with Object Oriented C++ programming language .
+Batik is a project to complete computer graphic course. This project display an animation of japanese crest and scandinavian floral pattern shape that manipulated by some operations. Those operations are translation, scaling, and rotation. Developed using Object Oriented C++ programming language .
 
 # Functions
 Animating shape using:
